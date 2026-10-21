@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: laba4.EnrollmentDecisionTableTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.092 s -- in laba4.EnrollmentDecisionTableTest

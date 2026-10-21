@@ -1,0 +1,10 @@
+package laba4.hub;
+
+public enum HubErrorCode {
+    INVALID_ARGUMENT,
+    INVALID_COURSE_CODE,
+    COURSE_NOT_FOUND,
+    STUDENT_NOT_FOUND,
+    ENROLLMENT_REJECTED,
+    IMPORT_FAILED
+}
